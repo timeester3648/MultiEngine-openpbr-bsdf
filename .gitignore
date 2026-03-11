@@ -6,3 +6,9 @@ minimal_cpp_example
 
 # Eclair-specific overrides
 eclair_*
+
+# exclude project files
+**.sln
+**.vcxproj
+**.vcxproj.user
+**.vcxproj.filters
